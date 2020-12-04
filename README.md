@@ -1,5 +1,9 @@
 # MiniOCR
 
+[![License](https://img.shields.io/badge/license-Apache%202-red.svg)](LICENSE)
+![Version](https://img.shields.io/github/release/PaddlePaddle/PaddleHub.svg)
+![Paddle](https://img.shields.io/badge/paddle-2.0.0rc0-orange.svg)
+
 PaddleHub: [项目地址](https://github.com/PaddlePaddle/PaddleHub) [国内仓库](https://gitee.com/PaddlePaddle/PaddleHub)
 
 PaddleOCR: [项目地址](https://github.com/paddlepaddle/PaddleOCR) [国内仓库](https://gitee.com/PaddlePaddle/PaddleOCR)
