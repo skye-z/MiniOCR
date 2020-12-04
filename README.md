@@ -1,5 +1,9 @@
 # MiniOCR
 
+PaddleHub: [项目地址](https://github.com/PaddlePaddle/PaddleHub) [国内仓库](https://gitee.com/PaddlePaddle/PaddleHub)
+
+PaddleOCR: [项目地址](https://github.com/paddlepaddle/PaddleOCR) [国内仓库](https://gitee.com/PaddlePaddle/PaddleOCR)
+
 ## 重要提示
 
 本项目基于PaddlePaddle2.0.0rc0, 封装了OCR服务, 但是并非使用官方推荐的模型!!!!
