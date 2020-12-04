@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/badge/license-Apache%202-red.svg)](LICENSE)
 ![Version](https://img.shields.io/github/release/PaddlePaddle/PaddleHub.svg)
 ![Paddle](https://img.shields.io/badge/paddle-2.0.0rc0-orange.svg)
+[![Docker](https://img.shields.io/badge/docker-skay98%2Fmini--ocr-brightgreen)](https://hub.docker.com/r/skay98/mini-ocr)
 
 PaddleHub: [项目地址](https://github.com/PaddlePaddle/PaddleHub) [国内仓库](https://gitee.com/PaddlePaddle/PaddleHub)
 
