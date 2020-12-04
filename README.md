@@ -26,10 +26,16 @@ PaddleOCR: [项目地址](https://github.com/paddlepaddle/PaddleOCR) [国内仓�
 
 1. 自行构建
 
-`
+```
+git clone https://github.com/skai-zhang/MiniOCR.git
+
+cd MiniOCR
+
 docker build -f min-ocr.dockerfile -t mini-ocr:1.0.1 .
-`
+```
 
 2. 仓库拉取
 
-`暂未上传公共仓库`
+```
+docker run --name MiniOCR -p 8866:8866 skay98/mini-ocr
+```
